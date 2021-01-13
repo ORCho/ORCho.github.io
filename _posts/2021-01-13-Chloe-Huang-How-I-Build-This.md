@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chloe Huang, How I build This Site"
-date: 2014-04-30
+date: 2021-01-13
 ---
 
 Just several hours, i have built this site following guidance of this
