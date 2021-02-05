@@ -26,7 +26,7 @@ Planning to follow the web courses on knight center:
 
 4. <a href="https://journalismcourses.org/course/data-journalism-and-visualization-with-free-tools/">Data Journalism and Visualization with Free Tools</a>
 
-Besides, I have also find an interesting adobe illustrator in science workshop created by Callier Chappell from Stanford University. 
+Besides, I have also find an interesting adobe illustrator in science workshop created by Callier Chappell from Stanford University.
 
 5. <a href="https://www.calliechappell.com">Callier Chappell</a>
 
