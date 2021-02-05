@@ -6,3 +6,5 @@ permalink: /blog/:year/:month/:day/:title
 # Google Analytics
 google_analytics: G-F5RFW1KLX1
 theme: jekyll-theme-cayman
+paginate: 20
+paginate_path: "/blog/page:num/"
