@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Chloe Huang, Data Visualization Designer, Launches Site"
 date: 2021-01-13
 ---
