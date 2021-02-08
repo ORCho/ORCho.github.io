@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chloe Huang, How I build this Web Page with Github Pages"
+title: "How I build this Web Page with Github Pages Part I"
 date: 2021-01-13
 ---
 
